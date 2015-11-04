@@ -32,7 +32,7 @@ public class MyPortletUI extends UI {
 			+ "Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. "
 			+ "Vestibulum lacinia arcu egetum nulla. Class aptent taciti sociosqu ad "
 			+ "litora torquent per conubia nostra, per inceptos himenaeos.</p>"
-			+ "<p><a href=\"https://github.com/devdtb/vapo\" target=\"_blank\">GitHub</a></p>"
+			+ "<p><a href=\"https://github.com/devdtb/liferayportlet\" target=\"_blank\">GitHub</a></p>"
 			+ "<hr>", ContentMode.HTML);
 	TextField filter = new TextField();
     Grid productList = new Grid();
